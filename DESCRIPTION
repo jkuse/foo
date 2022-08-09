@@ -1,0 +1,11 @@
+Package: foo2
+Title: Shannon Diversity
+Version: 0.0.0.9000
+Authors@R: 
+    person("Júlia", "Kuse", , "julia.ktaboada@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Exemplifies how a package works.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
